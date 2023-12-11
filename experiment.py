@@ -3,9 +3,9 @@ from distributed_matching import DistributedMatchingDriver
 from utils import create_plot
 
 graphs = []
-# graphs.append(Graph(num_nodes=1000, num_edges=5000))
-# graphs.append(Graph(num_nodes=1000, num_edges=10000))
-# graphs.append(Graph(num_nodes=1000, num_edges=20000))
+graphs.append(Graph(num_nodes=1000, num_edges=5000))
+graphs.append(Graph(num_nodes=1000, num_edges=10000))
+graphs.append(Graph(num_nodes=1000, num_edges=20000))
 graphs.append(Graph(num_nodes=1000, num_edges=50000))
 
 epsilon_values = [0.01, 0.05, 0.1, 0.2, 0.5]
