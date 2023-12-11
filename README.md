@@ -1,4 +1,4 @@
-# Coreset for Minimum Enclosing Ball
+# Distributed Graph Matching
 
 [Link to Project Report](https://anmol-anand.github.io/paper/Distributed_Graph_Matching_Project_Report.pdf)
 
